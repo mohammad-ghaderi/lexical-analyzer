@@ -1,0 +1,8 @@
+int main(){
+	float x = 5.9;
+	int y = x * 7 + 2;
+	for (int i = 0; i < y; i++) {
+		break;
+	}
+	return 0;
+}
